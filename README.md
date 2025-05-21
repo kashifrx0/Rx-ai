@@ -1,9 +1,8 @@
 # Introduction to rx assistant
 
-_this is the best ai like chat gpt ._
+_this is the best ai Rx assistant._
 
-   <a id="start-exercise" href="https://github.com/kashifrx0/Rx-ai/issues/1">
-      <img src="https://img.shields.io/badge/➡️_Start_rx_client-008000" height="25pt"/>
+   <a id="start-exercise" href="index.HTML"> <img src="https://img.shields.io/badge/➡️_Start_rx_client-008000" height="25pt"/>
    </a>
 
 ---
